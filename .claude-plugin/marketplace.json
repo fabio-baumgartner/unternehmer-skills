@@ -1,0 +1,39 @@
+{
+  "name": "unternehmer-skills",
+  "owner": {
+    "name": "Fabio Baumgartner"
+  },
+  "metadata": {
+    "description": "Das KI-Mitarbeiter Starter-Kit: 23 deutsche Claude Skills fuer Selbstaendige, Freelancer, Berater und kleine Unternehmen.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "unternehmer-skills",
+      "displayName": "Unternehmer-Skills",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "23 deutsche Claude Skills fuer Selbstaendige und kleine Unternehmen: Content & Strategie, Vertrieb, Betrieb & Alltag, Claude besser nutzen, Automatisierung & Technik.",
+      "author": {
+        "name": "Fabio Baumgartner"
+      },
+      "keywords": [
+        "deutsch",
+        "unternehmer",
+        "solopreneur",
+        "freelancer",
+        "content",
+        "linkedin",
+        "newsletter",
+        "seo",
+        "vertrieb",
+        "angebote",
+        "leads",
+        "posteingang",
+        "n8n",
+        "mcp",
+        "automatisierung"
+      ]
+    }
+  ]
+}

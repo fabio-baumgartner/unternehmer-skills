@@ -1,0 +1,20 @@
+{
+  "name": "unternehmer-skills",
+  "version": "1.0.0",
+  "description": "23 deutsche Claude Skills fuer Selbstaendige, Freelancer, Berater und kleine Unternehmen: Content & Strategie, Vertrieb, Betrieb & Alltag, Claude besser nutzen, Automatisierung & Technik.",
+  "author": {
+    "name": "Fabio Baumgartner"
+  },
+  "homepage": "https://github.com/fabio-baumgartner/unternehmer-skills",
+  "repository": "https://github.com/fabio-baumgartner/unternehmer-skills",
+  "keywords": [
+    "skills",
+    "deutsch",
+    "unternehmer",
+    "solopreneur",
+    "freelancer",
+    "content",
+    "vertrieb",
+    "automatisierung"
+  ]
+}

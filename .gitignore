@@ -1,0 +1,18 @@
+# Laufzeit-Dateien, die Skills beim Onboarding im eigenen Ordner anlegen (Nutzerdaten)
+skills/*/profil.md
+skills/*/icp.md
+skills/*/preislogik.md
+skills/*/standards.md
+skills/*/regeln.md
+skills/*/briefing-log.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Systemkram
+node_modules/
+dist/
+Thumbs.db
+.DS_Store
