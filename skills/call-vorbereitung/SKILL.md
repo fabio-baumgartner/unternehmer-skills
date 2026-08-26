@@ -1,6 +1,6 @@
 ---
 name: call-vorbereitung
-description: Bereitet auf einen Verkaufs- oder Kennenlern-Call vor. Nimmt Name, Firma oder LinkedIn-Profil entgegen, recherchiert oeffentliche Quellen und liefert ein Kurzprofil mit Gespraechsaufhaengern, wahrscheinlichen Einwaenden und guten Fragen, alles auf einer Seite. Nutze diesen Skill, wenn der User sagt "bereite mich auf den Call vor", "Call-Vorbereitung", "wer ist mein naechster Termin", "Recherche zu [Firma] vor dem Gespraech", "Meeting-Vorbereitung", "prep me for this call", "sales call prep", "research this company before my meeting".
+description: Bereitet auf einen Verkaufs- oder Kennenlern-Call vor. Nimmt Name, Firma oder LinkedIn-Profil entgegen, recherchiert öffentliche Quellen und liefert ein Kurzprofil mit Gesprächsaufhängern, wahrscheinlichen Einwänden und guten Fragen, alles auf einer Seite. Nutze diesen Skill, wenn der User sagt "bereite mich auf den Call vor", "Call-Vorbereitung", "wer ist mein nächster Termin", "Recherche zu [Firma] vor dem Gespräch", "Meeting-Vorbereitung", "prep me for this call", "sales call prep", "research this company before my meeting".
 ---
 
 # Call-Vorbereitung

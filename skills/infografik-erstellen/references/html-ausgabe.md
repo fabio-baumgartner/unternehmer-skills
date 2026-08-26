@@ -16,7 +16,7 @@ Wenn der Nutzer Option B (eigenständiges HTML) wählt, baue eine einzelne HTML-
 - Großzügiger Weißraum: Innenabstand der Leinwand mindestens 60 px.
 - Klare Hierarchie: Headline deutlich größer als alles andere, danach maximal zwei weitere Schriftgrößen.
 - Kontrast prüfen: Text muss auf seinem Hintergrund gut lesbar sein, auch verkleinert im LinkedIn-Feed.
-- Die Slots des gewählten Layouts exakt umsetzen, nichts dazuerfinden.
+- Die Slots des gewählten Layouts exakt umsetzen, nichts dazürfinden.
 - Footer-Zeile aus `profil.md` unten einbauen, falls definiert.
 
 ## Übergabe an den Nutzer

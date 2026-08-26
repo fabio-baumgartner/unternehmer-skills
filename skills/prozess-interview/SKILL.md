@@ -1,6 +1,6 @@
 ---
 name: prozess-interview
-description: Interviewt den User so lange, bis ein Prozess lueckenlos beschrieben ist, deckt Widersprueche und Luecken aktiv auf und erzeugt daraus ein sauberes SOP-Dokument, optional direkt einen Claude Skill. Nutze diesen Skill, wenn der User sagt "interviewe mich", "lass uns den Prozess dokumentieren", "hilf mir das durchzudenken", "SOP erstellen", "Ablauf festhalten", "loecher in meinen Plan schiessen", "interview me", "help me think this through", "document this process", "scope this out", "poke holes in my plan".
+description: Interviewt den User so lange, bis ein Prozess lückenlos beschrieben ist, deckt Widersprüche und Lücken aktiv auf und erzeugt daraus ein sauberes SOP-Dokument, optional direkt einen Claude Skill. Nutze diesen Skill, wenn der User sagt "interviewe mich", "lass uns den Prozess dokumentieren", "hilf mir das durchzudenken", "SOP erstellen", "Ablauf festhalten", "löcher in meinen Plan schiessen", "interview me", "help me think this through", "document this process", "scope this out", "poke holes in my plan".
 ---
 
 # Prozess-Interview

@@ -1,6 +1,6 @@
 ---
 name: refresh
-description: Erzeugt ein Uebergabe-Dokument, mit dem man in einem frischen Chat nahtlos weiterarbeitet: Ziel der naechsten Sitzung, relevante Dateien als Verweis statt als Kopie, offene Entscheidungen, naechster Schritt. Drei Stufen: kurz, normal, ausfuehrlich. Nutze diesen Skill, wenn der User sagt "refresh", "neuer Chat mit Kontext", "Uebergabe erstellen", "der Chat wird zaeh", "frischer Start", "mach einen Handoff", "fresh start", "hand off this session", "start a new chat with context", oder wenn eine lange Sitzung erkennbar schlechter wird.
+description: Erzeugt ein Übergabe-Dokument, mit dem man in einem frischen Chat nahtlos weiterarbeitet: Ziel der nächsten Sitzung, relevante Dateien als Verweis statt als Kopie, offene Entscheidungen, nächster Schritt. Drei Stufen: kurz, normal, ausführlich. Nutze diesen Skill, wenn der User sagt "refresh", "neuer Chat mit Kontext", "Übergabe erstellen", "der Chat wird zäh", "frischer Start", "mach einen Handoff", "fresh start", "hand off this session", "start a new chat with context", oder wenn eine lange Sitzung erkennbar schlechter wird.
 ---
 
 # Refresh
@@ -23,7 +23,7 @@ Der Nutzer kann eine Stufe nennen ("refresh kurz"). Ohne Angabe gilt **normal**.
 
 - **kurz**: der Spickzettel. Ziel, die nächsten 3 Schritte, offene Entscheidungen, nackte Dateipfade. Kein Durchsuchen der Sitzung.
 - **normal** (Standard): das Übergabe-Dokument. Alles aus kurz, plus was erledigt ist, welche Entscheidungen getroffen wurden, und zu jeder Datei ein Halbsatz, warum sie zählt.
-- **ausfuehrlich**: das volle Briefing. Alles aus normal, plus Sackgassen, die die nächste Sitzung nicht wiederholen soll, Pfade zu Daten- und Protokolldateien, und welche Skills die nächste Sitzung starten sollte.
+- **ausführlich**: das volle Briefing. Alles aus normal, plus Sackgassen, die die nächste Sitzung nicht wiederholen soll, Pfade zu Daten- und Protokolldateien, und welche Skills die nächste Sitzung starten sollte.
 
 ## Ablauf
 
@@ -38,7 +38,7 @@ Eine Übergabe nützt nur, wenn ihr Leser die erwähnten Dateien öffnen kann.
 - **Bleibt hier** (Standard): derselbe Nutzer, dieselbe Maschine, frischer Chat im selben Ordner. Lokale Pfade sind in Ordnung.
 - **Reist**: geht an eine andere Person, eine andere Maschine oder per Mail. Dann sind lokale Pfade wertlos. Kleine wichtige Inhalte werden wörtlich eingebettet, für den Rest gemeinsame Quellen verlinkt (geteilter Ordner, Notion, URL). Im Zweifel einmal fragen: "Für dich hier, oder zum Weitergeben?"
 
-### Schritt 3: Sammeln (normal und ausfuehrlich)
+### Schritt 3: Sammeln (normal und ausführlich)
 
 Die laufende Sitzung durchgehen: Was wurde erledigt, was entschieden, welche Dateien wurden erstellt oder geändert, was blieb offen.
 
@@ -63,7 +63,7 @@ Genau diese Form, nicht zutreffende Abschnitte weglassen:
 
 Weiterarbeit in [Projekt / Arbeitsverzeichnis]. Ziel dieser Sitzung: [Ziel]
 
-## Wo die Dinge stehen          (normal + ausfuehrlich)
+## Wo die Dinge stehen          (normal + ausführlich)
 [Erledigtes, getroffene Entscheidungen]
 
 ## Nächste Schritte
@@ -75,10 +75,10 @@ Weiterarbeit in [Projekt / Arbeitsverzeichnis]. Ziel dieser Sitzung: [Ziel]
 ## Mitgenommene Daten            (nur was nirgendwo sonst liegt)
 [wörtlich eingebettete Inhalte]
 
-## Nicht wiederholen             (nur ausfuehrlich)
+## Nicht wiederholen             (nur ausführlich)
 - [Sackgasse / verworfener Ansatz]
 
-## Skills starten                (nur ausfuehrlich)
+## Skills starten                (nur ausführlich)
 - [Skill und wofür]
 ```
 

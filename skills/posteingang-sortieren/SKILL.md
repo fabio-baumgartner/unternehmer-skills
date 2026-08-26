@@ -1,6 +1,6 @@
 ---
 name: posteingang-sortieren
-description: Geht den E-Mail-Posteingang durch und sortiert alles in vier Gruppen: braucht Antwort, kann warten, nur zur Kenntnis, kann weg. Fuer dringende Mails werden Antwortentwuerfe vorgeschlagen. Sendet, loescht und archiviert nie selbst. Nutze diesen Skill, wenn der User sagt "sortier meinen Posteingang", "geh meine Mails durch", "Inbox aufraeumen", "welche Mails muss ich beantworten", "E-Mail-Triage", "sort my inbox", "triage my email", "go through my emails", "inbox zero".
+description: Geht den E-Mail-Posteingang durch und sortiert alles in vier Gruppen: braucht Antwort, kann warten, nur zur Kenntnis, kann weg. Für dringende Mails werden Antwortentwürfe vorgeschlagen. Sendet, löscht und archiviert nie selbst. Nutze diesen Skill, wenn der User sagt "sortier meinen Posteingang", "geh meine Mails durch", "Inbox aufräumen", "welche Mails muss ich beantworten", "E-Mail-Triage", "sort my inbox", "triage my email", "go through my emails", "inbox zero".
 ---
 
 # Posteingang sortieren

@@ -7,25 +7,25 @@ Beim Ausfüllen: alle Platzhalter ersetzen, nichts Ungenutztes stehen lassen, eh
 ```markdown
 # [Unternehmensname]
 
-> [Ein Satz: was das Unternehmen macht, fuer wen, wo. Beispiel: "Steuerkanzlei in Koeln, spezialisiert auf Selbststaendige und kleine GmbHs."]
+> [Ein Satz: was das Unternehmen macht, für wen, wo. Beispiel: "Steuerkanzlei in Köln, spezialisiert auf Selbstständige und kleine GmbHs."]
 
-## Ueber uns
+## Über uns
 
-[2 bis 4 Saetze: seit wann, wer dahinter steht, was das Unternehmen von anderen unterscheidet. Konkret, keine Werbesprache.]
+[2 bis 4 Sätze: seit wann, wer dahinter steht, was das Unternehmen von anderen unterscheidet. Konkret, keine Werbesprache.]
 
 ## Leistungen
 
-- [Leistung 1]: [ein Satz, was das beinhaltet und fuer wen es passt]
+- [Leistung 1]: [ein Satz, was das beinhaltet und für wen es passt]
 - [Leistung 2]: [ein Satz]
 - [Leistung 3]: [ein Satz]
 
 ## Preise
 
-[Ehrliche Orientierung, auch als Spanne. Beispiel: "Lohnbuchhaltung ab 15 Euro pro Mitarbeiter und Monat. Jahresabschluss fuer kleine GmbHs typischerweise 1.500 bis 3.000 Euro." Wenn Preise wirklich nicht nennbar sind: beschreiben, wovon sie abhaengen.]
+[Ehrliche Orientierung, auch als Spanne. Beispiel: "Lohnbuchhaltung ab 15 Euro pro Mitarbeiter und Monat. Jahresabschluss für kleine GmbHs typischerweise 1.500 bis 3.000 Euro." Wenn Preise wirklich nicht nennbar sind: beschreiben, wovon sie abhängen.]
 
-## Fuer wen wir passen
+## Für wen wir passen
 
-[2 bis 3 Saetze: idealer Kunde. Und ehrlich: fuer wen das Angebot nicht passt.]
+[2 bis 3 Sätze: idealer Kunde. Und ehrlich: für wen das Angebot nicht passt.]
 
 ## Kontakt
 
@@ -38,7 +38,7 @@ Beim Ausfüllen: alle Platzhalter ersetzen, nichts Ungenutztes stehen lassen, eh
 
 - [Titel der Seite]: https://[domain]/[pfad] ([ein Halbsatz, was dort steht])
 - [Kostenseite]: https://[domain]/[pfad] (Preise und Einflussfaktoren)
-- [Ablaufseite]: https://[domain]/[pfad] (so laeuft die Zusammenarbeit)
+- [Ablaufseite]: https://[domain]/[pfad] (so läuft die Zusammenarbeit)
 ```
 
 ## Hinweise

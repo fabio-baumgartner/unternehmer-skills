@@ -5,7 +5,7 @@
 ```
 [arbeitsordner]/
 ├── CLAUDE.md            Startdatei: wer der Nutzer ist, wie hier gearbeitet wird
-├── kontext/             Das Wissen ueber das Business (aendert sich selten)
+├── kontext/             Das Wissen über das Business (ändert sich selten)
 │   ├── ich.md
 │   ├── business.md
 │   ├── zielgruppe.md
@@ -34,25 +34,25 @@ Beim Setup mit echten Daten füllen (Name, Tätigkeit, die wichtigsten Eigenheit
 ```markdown
 # Arbeitssystem von [Name]
 
-[Name] ist [Taetigkeit in einem Satz]. Dieses Verzeichnis ist das dauerhafte
-Arbeitssystem: Kontext ueber das Business liegt in kontext/, laufende Arbeit
+[Name] ist [Tätigkeit in einem Satz]. Dieses Verzeichnis ist das dauerhafte
+Arbeitssystem: Kontext über das Business liegt in kontext/, laufende Arbeit
 in projekte/, Notizen in notizen/.
 
 ## So arbeitest du hier
 
 - Lies bei Aufgaben mit Business-Bezug zuerst die passende Datei aus kontext/
   (Angebot und Preise: business.md · Kunden: zielgruppe.md · Ton: marke-stimme.md).
-- Neue dauerhafte Fakten ("merk dir das") gehoeren in die passende kontext/-Datei,
-  mit aktualisiertem Stand-Datum. Kurzlebiges gehoert nach notizen/.
-- Projektarbeit laeuft im jeweiligen Ordner unter projekte/. Die README.md dort
-  ist der Index: Ueberblick, Stand, naechste Schritte aktuell halten.
-- Abgeschlossenes nach notizen/archiv/ verschieben, nicht loeschen.
+- Neue dauerhafte Fakten ("merk dir das") gehören in die passende kontext/-Datei,
+  mit aktualisiertem Stand-Datum. Kurzlebiges gehört nach notizen/.
+- Projektarbeit läuft im jeweiligen Ordner unter projekte/. Die README.md dort
+  ist der Index: Überblick, Stand, nächste Schritte aktuell halten.
+- Abgeschlossenes nach notizen/archiv/ verschieben, nicht löschen.
 - Sprache: Deutsch. Ansprache: [du/Sie]. [Weitere Eigenheiten aus dem Interview.]
 
-## Aktuelle Prioritaeten (Stand: JJJJ-MM-TT)
+## Aktuelle Prioritäten (Stand: JJJJ-MM-TT)
 
-1. [Prioritaet 1]
-2. [Prioritaet 2]
+1. [Priorität 1]
+2. [Priorität 2]
 ```
 
 ## Vorlage: projekte/[name]/README.md
@@ -62,13 +62,13 @@ in projekte/, Notizen in notizen/.
 
 Stand: JJJJ-MM-TT · Status: aktiv
 
-## Ueberblick
-[Was das Projekt ist und wofuer, 2 bis 3 Saetze]
+## Überblick
+[Was das Projekt ist und wofür, 2 bis 3 Sätze]
 
 ## Aktueller Stand
 [Wo die Dinge stehen]
 
-## Naechste Schritte
+## Nächste Schritte
 - [ ] [Schritt]
 ```
 

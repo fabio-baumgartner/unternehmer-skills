@@ -8,8 +8,8 @@ Die Vorlagen zeigen die Abschnittsstruktur. Beim Bauen wird jeder Platzhalter du
 # Ich
 Stand: JJJJ-MM-TT
 
-[Name], [Rolle/Taetigkeit], [Ort]. [2 bis 4 Saetze: Werdegang-Kurzfassung,
-wofuer die Person steht, wie Kollegen sie beschreiben.]
+[Name], [Rolle/Tätigkeit], [Ort]. [2 bis 4 Sätze: Werdegang-Kurzfassung,
+wofür die Person steht, wie Kollegen sie beschreiben.]
 
 ## Standpunkt
 [Woran die Person glaubt, wogegen sie sich abgrenzt. Aus Frage 3.]
@@ -25,13 +25,13 @@ wofuer die Person steht, wie Kollegen sie beschreiben.]
 Stand: JJJJ-MM-TT
 
 ## Angebot
-[Jede Leistung: Name, was sie beinhaltet, fuer wen, Preis oder Preisspanne.]
+[Jede Leistung: Name, was sie beinhaltet, für wen, Preis oder Preisspanne.]
 
-## Das geloeste Problem
+## Das gelöste Problem
 [Welches Problem Kunden haben, in deren Worten, und was es sie kostet.]
 
 ## Wie Kunden kommen
-[Empfehlung, Content, Anzeigen, Bestandskunden. Was heute wirklich traegt.]
+[Empfehlung, Content, Anzeigen, Bestandskunden. Was heute wirklich trägt.]
 ```
 
 ## kontext/zielgruppe.md
@@ -41,10 +41,10 @@ Stand: JJJJ-MM-TT
 Stand: JJJJ-MM-TT
 
 ## Wunschkunde
-[Rolle, Branche, Groesse, Situation. Echte Beispiele, wenn genannt.]
+[Rolle, Branche, Größe, Situation. Echte Beispiele, wenn genannt.]
 
 ## Was sie umtreibt
-[Schmerzen, Ziele, Einwaende, typische Formulierungen.]
+[Schmerzen, Ziele, Einwände, typische Formulierungen.]
 
 ## Wer nicht passt
 [Ehrliche Abgrenzung, falls aus dem Interview bekannt.]
@@ -56,15 +56,15 @@ Stand: JJJJ-MM-TT
 # Marke und Stimme
 Stand: JJJJ-MM-TT
 
-## Tonalitaet
+## Tonalität
 [Adjektive plus je ein Beispielsatz. Ansprache du/Sie. Aus Frage 4 oder aus
-eingefuegten Texten extrahiert: Satzlaenge, Rhythmus, Humor.]
+eingefügten Texten extrahiert: Satzlänge, Rhythmus, Humor.]
 
 ## Typische Phrasen
 [Formulierungen, die die Person wirklich benutzt.]
 
 ## No-Gos
-[Woerter und Stilmittel, die nie vorkommen duerfen.]
+[Wörter und Stilmittel, die nie vorkommen dürfen.]
 
 ## Gestaltung (falls vorhanden)
 [Farben, Schrift, Logo-Hinweise.]
@@ -76,8 +76,8 @@ eingefuegten Texten extrahiert: Satzlaenge, Rhythmus, Humor.]
 # Strategie
 Stand: JJJJ-MM-TT
 
-## Prioritaeten dieses Quartal
-1. [Prioritaet, mit Zahl wenn messbar]
+## Prioritäten dieses Quartal
+1. [Priorität, mit Zahl wenn messbar]
 
 ## Aktive Projekte
 - [Name]: [ein Satz Zweck] (Details: projekte/[name]/)

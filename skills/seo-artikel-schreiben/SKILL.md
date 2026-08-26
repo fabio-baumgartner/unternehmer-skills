@@ -1,6 +1,6 @@
 ---
 name: seo-artikel-schreiben
-description: Schreibt suchmaschinenoptimierte Artikel von der Suchintention ueber die Gliederung bis zum fertigen Text mit Meta-Title, Meta-Description und Vorschlaegen fuer interne Verlinkung. Nutze diesen Skill, wenn der User sagt "SEO-Artikel", "Blogartikel fuer Google", "Artikel zu diesem Keyword", "Ratgeber-Artikel schreiben", "SEO-Text", "write an SEO article", "blog post for keyword", "SEO content", "article that ranks".
+description: Schreibt suchmaschinenoptimierte Artikel von der Suchintention über die Gliederung bis zum fertigen Text mit Meta-Title, Meta-Description und Vorschlägen für interne Verlinkung. Nutze diesen Skill, wenn der User sagt "SEO-Artikel", "Blogartikel für Google", "Artikel zu diesem Keyword", "Ratgeber-Artikel schreiben", "SEO-Text", "write an SEO article", "blog post for keyword", "SEO content", "article that ranks".
 ---
 
 # SEO-Artikel schreiben

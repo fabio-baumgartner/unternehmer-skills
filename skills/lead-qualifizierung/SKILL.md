@@ -1,6 +1,6 @@
 ---
 name: lead-qualifizierung
-description: Bewertet Leads gegen ein einmal definiertes Wunschkunden-Profil (ICP), wahlweise aus einer Datei (CSV, Excel) oder direkt aus dem verbundenen CRM (HubSpot, Pipedrive, Attio, Notion). Jeder Lead bekommt eine Bewertung mit Begruendung, bei CRM-Anbindung wird sie zurueckgeschrieben. Nutze diesen Skill, wenn der User sagt "Leads bewerten", "Leads qualifizieren", "welche Leads passen", "Leadliste filtern", "Leads priorisieren", "qualify leads", "score these leads", "filter my leads", "which leads match my ICP", "segment this list".
+description: Bewertet Leads gegen ein einmal definiertes Wunschkunden-Profil (ICP), wahlweise aus einer Datei (CSV, Excel) oder direkt aus dem verbundenen CRM (HubSpot, Pipedrive, Attio, Notion). Jeder Lead bekommt eine Bewertung mit Begründung, bei CRM-Anbindung wird sie zurückgeschrieben. Nutze diesen Skill, wenn der User sagt "Leads bewerten", "Leads qualifizieren", "welche Leads passen", "Leadliste filtern", "Leads priorisieren", "qualify leads", "score these leads", "filter my leads", "which leads match my ICP", "segment this list".
 ---
 
 # Lead-Qualifizierung
@@ -60,7 +60,7 @@ Im Zweifel eher aufnehmen als rauswerfen: Grenzfälle als Warm markieren und dem
 
 ### Schritt 3: Ergebnis liefern
 
-**Immer:** eine sortierte Ergebnisliste im Chat (Heiß zuerst) plus, beim Datei-Workflow, eine aktualisierte Datei mit zwei neuen Spalten: `Bewertung` und `Begruendung`. Alle Originalspalten bleiben erhalten.
+**Immer:** eine sortierte Ergebnisliste im Chat (Heiß zuerst) plus, beim Datei-Workflow, eine aktualisierte Datei mit zwei neuen Spalten: `Bewertung` und `Begründung`. Alle Originalspalten bleiben erhalten.
 
 **Mit CRM:** die Bewertungen erst nach ausdrücklicher Freigabe des Nutzers zurückschreiben (als Feld, Tag oder Notiz, je nachdem, was das CRM hergibt). Vor dem Schreiben zeigen, was wohin geschrieben wird. Nie Leads löschen oder Pipeline-Stufen verschieben, nur die Bewertung ergänzen.
 
@@ -78,7 +78,7 @@ Zum Abschluss: die 5 bis 10 heißesten Leads mit je einem Satz, warum sie oben s
 | ... | ... | Heiß | Erfüllt alle Pflichtkriterien, sucht laut Stellenanzeige gerade [Rolle] |
 
 Heiß: X · Warm: X · Kalt: X · Raus: X
-Datei: [Pfad] (mit Spalten "Bewertung" und "Begruendung")
+Datei: [Pfad] (mit Spalten "Bewertung" und "Begründung")
 ```
 
 ## Wofür dieser Skill nicht da ist

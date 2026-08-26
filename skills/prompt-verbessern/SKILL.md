@@ -1,6 +1,6 @@
 ---
 name: prompt-verbessern
-description: Verwandelt eine rohe Idee in einen fertigen, optimierten Prompt fuer das jeweilige Zieltool (ChatGPT, Claude, Gemini, Coding-Agent, Bildgenerator, Workflow-Tool). Keine Theorie, nur der fertige Prompt zum Einfuegen. Nutze diesen Skill, wenn der User sagt "verbessere diesen Prompt", "schreib mir einen Prompt", "Prompt fuer [Tool]", "warum funktioniert mein Prompt nicht", "mach daraus einen guten Prompt", "improve this prompt", "write a prompt for", "fix my prompt", "prompt engineering".
+description: Verwandelt eine rohe Idee in einen fertigen, optimierten Prompt für das jeweilige Zieltool (ChatGPT, Claude, Gemini, Coding-Agent, Bildgenerator, Workflow-Tool). Keine Theorie, nur der fertige Prompt zum Einfügen. Nutze diesen Skill, wenn der User sagt "verbessere diesen Prompt", "schreib mir einen Prompt", "Prompt für [Tool]", "warum funktioniert mein Prompt nicht", "mach daraus einen guten Prompt", "improve this prompt", "write a prompt for", "fix my prompt", "prompt engineering".
 ---
 
 # Prompt verbessern

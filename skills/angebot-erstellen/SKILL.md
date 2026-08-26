@@ -1,6 +1,6 @@
 ---
 name: angebot-erstellen
-description: Erstellt aus Call-Notizen oder einem Transkript ein fertiges Angebot: Ausgangslage des Kunden, Zielbild, Leistungen mit Umfang, Zeitplan, Preis mit Begruendung und naechste Schritte. Die Preislogik kommt aus einem einmaligen Onboarding. Nutze diesen Skill, wenn der User sagt "erstell ein Angebot", "Angebot schreiben", "Angebot fuer [Kunde]", "Proposal erstellen", "aus dem Call ein Angebot machen", "write a proposal", "create an offer", "draft a quote", "turn these notes into a proposal".
+description: Erstellt aus Call-Notizen oder einem Transkript ein fertiges Angebot: Ausgangslage des Kunden, Zielbild, Leistungen mit Umfang, Zeitplan, Preis mit Begründung und nächste Schritte. Die Preislogik kommt aus einem einmaligen Onboarding. Nutze diesen Skill, wenn der User sagt "erstell ein Angebot", "Angebot schreiben", "Angebot für [Kunde]", "Proposal erstellen", "aus dem Call ein Angebot machen", "write a proposal", "create an offer", "draft a quote", "turn these notes into a proposal".
 ---
 
 # Angebot erstellen

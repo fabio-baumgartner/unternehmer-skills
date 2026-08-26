@@ -5,24 +5,24 @@ Die bewährte Struktur. Abschnitte, die für den konkreten Skill keinen Inhalt h
 ```markdown
 ---
 name: [skill-name, klein, bindestriche, keine umlaute]
-description: [Ein bis zwei Saetze, was der Skill tut.] Nutze diesen Skill, wenn der User sagt "[woertliche Phrase 1]", "[Phrase 2]", "[Phrase 3]", "[englische Phrase]".
+description: [Ein bis zwei Sätze, was der Skill tut.] Nutze diesen Skill, wenn der User sagt "[wörtliche Phrase 1]", "[Phrase 2]", "[Phrase 3]", "[englische Phrase]".
 ---
 
 # [Skill-Titel]
 
-[Zweck in 2 bis 3 Saetzen: was der Skill tut und was am Ende steht. Wenn es
+[Zweck in 2 bis 3 Sätzen: was der Skill tut und was am Ende steht. Wenn es
 eine goldene Regel gibt (z. B. "nie sofort das Endergebnis ausgeben"), steht
 sie hier fett.]
 
 ## Wann dieser Skill greift
 
-[1 bis 2 Saetze: die Situationen. Plus Abgrenzung bei Verwechslungsgefahr.]
+[1 bis 2 Sätze: die Situationen. Plus Abgrenzung bei Verwechslungsgefahr.]
 
 ## Konnektoren
 
 [Welche Konnektoren oder Werkzeuge helfen, und der Fallback ohne sie:
 "Wenn X verbunden ist: automatisch nutzen. Wenn nicht: [manueller Weg]."
-Wenn keine noetig sind: "Keine noetig."]
+Wenn keine nötig sind: "Keine nötig."]
 
 ## Ablauf
 
@@ -37,7 +37,7 @@ bevor du weitermachst."]
 
 ## Ausgabeformat
 
-[Wie das Ergebnis aussieht. Bei festem Format: das Geruest zeigen.]
+[Wie das Ergebnis aussieht. Bei festem Format: das Gerüst zeigen.]
 
 ## Wofür dieser Skill nicht da ist
 
@@ -57,7 +57,7 @@ In der SKILL.md an der Stelle verlinken, wo der Ablauf die Datei braucht: "Lies 
 
 ## Wenn der Skill sich Dinge merken soll
 
-Für Skills mit Onboarding (Profil, Preislogik, Standards): beim ersten Lauf abfragen, als Markdown-Datei im Skill-Ordner speichern (z. B. `profil.md`), bei jedem weiteren Lauf lesen statt fragen. In der SKILL.md beschreiben: "Pruefe, ob im Ordner dieses Skills eine Datei profil.md existiert. Wenn ja: lesen. Wenn nein: [Onboarding-Fragen], dann speichern."
+Für Skills mit Onboarding (Profil, Preislogik, Standards): beim ersten Lauf abfragen, als Markdown-Datei im Skill-Ordner speichern (z. B. `profil.md`), bei jedem weiteren Lauf lesen statt fragen. In der SKILL.md beschreiben: "Prüfe, ob im Ordner dieses Skills eine Datei profil.md existiert. Wenn ja: lesen. Wenn nein: [Onboarding-Fragen], dann speichern."
 
 ## Häufige Fehler
 

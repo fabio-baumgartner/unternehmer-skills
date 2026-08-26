@@ -1,6 +1,6 @@
 ---
 name: website-copy
-description: Schreibt und ueberarbeitet Website-Texte fuer Homepage, Landingpage, Preisseite und Ueber-uns-Seite. Fragt erst Kontext ab (Angebot, Zielgruppe, Einwaende), schreibt dann nach Sektionen gegliedert, mit mehreren Headline- und CTA-Varianten samt Begruendung. Nutze diesen Skill, wenn der User sagt "Website-Texte", "Text fuer meine Startseite", "Landingpage-Text", "Preisseite", "Ueber-uns-Seite", "diese Seite ueberarbeiten", "Headline-Hilfe", "website copy", "landing page copy", "improve this copy", "value proposition", "rewrite my homepage".
+description: Schreibt und überarbeitet Website-Texte für Homepage, Landingpage, Preisseite und Über-uns-Seite. Fragt erst Kontext ab (Angebot, Zielgruppe, Einwände), schreibt dann nach Sektionen gegliedert, mit mehreren Headline- und CTA-Varianten samt Begründung. Nutze diesen Skill, wenn der User sagt "Website-Texte", "Text für meine Startseite", "Landingpage-Text", "Preisseite", "Über-uns-Seite", "diese Seite überarbeiten", "Headline-Hilfe", "website copy", "landing page copy", "improve this copy", "value proposition", "rewrite my homepage".
 ---
 
 # Website-Copy

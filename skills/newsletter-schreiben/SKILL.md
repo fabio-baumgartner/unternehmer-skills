@@ -1,6 +1,6 @@
 ---
 name: newsletter-schreiben
-description: Schreibt Newsletter-Ausgaben in einem schrittweisen Prozess vom Aufhaenger bis zum fertigen Text, mit Betreffzeilen-Varianten samt Begruendung, klarem Aufbau und Call to Action. Nutze diesen Skill, wenn der User sagt "schreib einen Newsletter", "Newsletter-Ausgabe", "E-Mail an meine Liste", "Mailing schreiben", "write a newsletter", "newsletter issue", "email to my list", "repurpose into a newsletter".
+description: Schreibt Newsletter-Ausgaben in einem schrittweisen Prozess vom Aufhänger bis zum fertigen Text, mit Betreffzeilen-Varianten samt Begründung, klarem Aufbau und Call to Action. Nutze diesen Skill, wenn der User sagt "schreib einen Newsletter", "Newsletter-Ausgabe", "E-Mail an meine Liste", "Mailing schreiben", "write a newsletter", "newsletter issue", "email to my list", "repurpose into a newsletter".
 ---
 
 # Newsletter schreiben

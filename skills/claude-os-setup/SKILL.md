@@ -1,6 +1,6 @@
 ---
 name: claude-os-setup
-description: Baut aus einem Onboarding-Interview und vorhandenen Dokumenten eine Ordnerstruktur mit Kontextdateien auf, damit Claude das Business des Users kennt und nicht in jedem Chat alles neu erklaert bekommen muss. Haelt das System auf Zuruf aktuell (aufraeumen, Luecken finden, Veraltetes markieren). Nutze diesen Skill, wenn der User sagt "richte mein Claude OS ein", "Setup", "Claude soll mein Business kennen", "Kontext-System aufbauen", "mein System aufraeumen", "set up my workspace", "claude os", "teach Claude my business", "organize my context".
+description: Baut aus einem Onboarding-Interview und vorhandenen Dokumenten eine Ordnerstruktur mit Kontextdateien auf, damit Claude das Business des Users kennt und nicht in jedem Chat alles neu erklärt bekommen muss. Hält das System auf Zuruf aktuell (aufräumen, Lücken finden, Veraltetes markieren). Nutze diesen Skill, wenn der User sagt "richte mein Claude OS ein", "Setup", "Claude soll mein Business kennen", "Kontext-System aufbauen", "mein System aufräumen", "set up my workspace", "claude os", "teach Claude my business", "organize my context".
 ---
 
 # Claude OS Setup

@@ -1,6 +1,6 @@
 ---
 name: ki-sichtbarkeit
-description: Prueft, ob ein Unternehmen in den Antworten von KI-Assistenten wie ChatGPT, Perplexity und Google-KI auftaucht, und leitet konkrete Massnahmen ab, inklusive llms.txt und strukturierter Inhalte. Nutze diesen Skill, wenn der User sagt "KI-Sichtbarkeit", "tauche ich in ChatGPT auf", "von KI empfohlen werden", "llms.txt", "KI-SEO", "AI SEO", "AEO", "GEO", "AI visibility", "show up in AI answers", "get cited by ChatGPT", "optimize for Perplexity".
+description: Prüft, ob ein Unternehmen in den Antworten von KI-Assistenten wie ChatGPT, Perplexity und Google-KI auftaucht, und leitet konkrete Maßnahmen ab, inklusive llms.txt und strukturierter Inhalte. Nutze diesen Skill, wenn der User sagt "KI-Sichtbarkeit", "tauche ich in ChatGPT auf", "von KI empfohlen werden", "llms.txt", "KI-SEO", "AI SEO", "AEO", "GEO", "AI visibility", "show up in AI answers", "get cited by ChatGPT", "optimize for Perplexity".
 ---
 
 # KI-Sichtbarkeit

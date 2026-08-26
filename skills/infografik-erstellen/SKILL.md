@@ -1,6 +1,6 @@
 ---
 name: infografik-erstellen
-description: Verwandelt fertigen Text, ein Thema oder Stichpunkte in eine Infografik, zum Beispiel fuer LinkedIn. Waehlt ein passendes Layout aus einem Katalog (Zahl im Fokus, Vergleich, Schritte, Liste, Konzept) und liefert wahlweise einen fertigen Prompt fuer ein Design-Tool oder eine eigenstaendige HTML-Grafik. Nutze diesen Skill, wenn der User sagt "mach eine Infografik", "Grafik aus diesem Post", "visualisiere das", "Infographic", "infographic", "post graphic", "create an infographic", "turn this into a visual".
+description: Verwandelt fertigen Text, ein Thema oder Stichpunkte in eine Infografik, zum Beispiel für LinkedIn. Wählt ein passendes Layout aus einem Katalog (Zahl im Fokus, Vergleich, Schritte, Liste, Konzept) und liefert wahlweise einen fertigen Prompt für ein Design-Tool oder eine eigenständige HTML-Grafik. Nutze diesen Skill, wenn der User sagt "mach eine Infografik", "Grafik aus diesem Post", "visualisiere das", "Infographic", "infographic", "post graphic", "create an infographic", "turn this into a visual".
 ---
 
 # Infografik erstellen
@@ -64,12 +64,12 @@ Frag den Nutzer (falls noch nicht klar), welches Format er will:
 **Farben:** [aus profil.md]
 **Schrift:** [aus profil.md]
 
-## Inhalt (Slot fuer Slot)
+## Inhalt (Slot für Slot)
 [alle Slots, exakt gefüllt]
 
 ## Regeln
 - [Emojis-Regel aus profil.md]
-- Kurze Fragmente, keine Textwaende
+- Kurze Fragmente, keine Textwände
 - [Footer-Zeile aus profil.md, falls vorhanden]
 ```
 

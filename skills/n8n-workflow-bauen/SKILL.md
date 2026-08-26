@@ -1,6 +1,6 @@
 ---
 name: n8n-workflow-bauen
-description: Baut n8n-Workflows aus einer Beschreibung: wahlweise als fertiges JSON zum Importieren (ohne API-Key) oder direkt deployt und getestet ueber die n8n-API. Hilft auch bei einzelnen Nodes, Expressions und Code-Nodes. Nutze diesen Skill, wenn der User sagt "bau mir einen n8n-Workflow", "n8n Automatisierung", "Workflow erstellen", "warum funktioniert mein n8n-Flow nicht", "n8n Expression", "create n8n workflow", "build automation in n8n", "deploy to n8n", "n8n node help".
+description: Baut n8n-Workflows aus einer Beschreibung: wahlweise als fertiges JSON zum Importieren (ohne API-Key) oder direkt deployt und getestet über die n8n-API. Hilft auch bei einzelnen Nodes, Expressions und Code-Nodes. Nutze diesen Skill, wenn der User sagt "bau mir einen n8n-Workflow", "n8n Automatisierung", "Workflow erstellen", "warum funktioniert mein n8n-Flow nicht", "n8n Expression", "create n8n workflow", "build automation in n8n", "deploy to n8n", "n8n node help".
 ---
 
 # n8n-Workflow bauen

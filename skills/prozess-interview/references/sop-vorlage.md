@@ -5,15 +5,15 @@ Das Ergebnis von Phase 5. Jeder Abschnitt wird aus dem Interview gefüllt, nicht
 ```markdown
 # SOP: [Prozessname]
 
-**Zweck:** [Warum es diesen Prozess gibt, ein bis zwei Saetze]
-**Gilt fuer:** [Wer danach arbeitet]
-**Ausloeser:** [Was den Prozess startet, z. B. "Anfrage per Mail geht ein"]
+**Zweck:** [Warum es diesen Prozess gibt, ein bis zwei Sätze]
+**Gilt für:** [Wer danach arbeitet]
+**Auslöser:** [Was den Prozess startet, z. B. "Anfrage per Mail geht ein"]
 **Ergebnis:** [Was am Ende vorliegt und woran man erkennt, dass es gut ist]
 **Stand:** [Datum] · **Verantwortlich:** [Name/Rolle]
 
 ## Voraussetzungen
 
-- [Zugaenge, Werkzeuge, Vorlagen, Informationen, die vorliegen muessen]
+- [Zugänge, Werkzeuge, Vorlagen, Informationen, die vorliegen müssen]
 
 ## Ablauf
 
@@ -22,18 +22,18 @@ Das Ergebnis von Phase 5. Jeder Abschnitt wird aus dem Interview gefüllt, nicht
 **Was:** [Konkrete Handlung]
 **Wie:** [Details, die ein Fremder braucht: wo klicken, was schreiben, welche Vorlage]
 **Entscheidung (falls vorhanden):** Wenn [Bedingung], dann [Weg A]. Sonst [Weg B].
-**Fertig, wenn:** [pruefbares Kriterium]
+**Fertig, wenn:** [prüfbares Kriterium]
 
 ### Schritt 2: ...
 
 [alle Schritte in dieser Form]
 
-## Sonderfaelle
+## Sonderfälle
 
 | Situation | Was tun |
 |-----------|---------|
-| [Input unvollstaendig] | [Reaktion] |
-| [Werkzeug/Person nicht verfuegbar] | [Reaktion] |
+| [Input unvollständig] | [Reaktion] |
+| [Werkzeug/Person nicht verfügbar] | [Reaktion] |
 | [Abbruchfall] | [Woran man ihn erkennt, was dann passiert] |
 
 ## Häufige Fehler
@@ -42,7 +42,7 @@ Das Ergebnis von Phase 5. Jeder Abschnitt wird aus dem Interview gefüllt, nicht
 
 ## Offene Punkte
 
-[Nur wenn wirklich etwas bewusst offen gelassen wurde, mit Datum und Zustaendigkeit. Ideal: leer.]
+[Nur wenn wirklich etwas bewusst offen gelassen wurde, mit Datum und Zuständigkeit. Ideal: leer.]
 ```
 
 ## Qualitätskriterien für das fertige SOP
@@ -60,18 +60,18 @@ Wenn der Nutzer statt (oder zusätzlich zum) SOP einen Skill will:
 ```markdown
 ---
 name: [prozessname-kurz, kleinbuchstaben, bindestriche, keine umlaute]
-description: [Was der Skill macht] plus Ausloese-Phrasen: Nutze diesen Skill, wenn der User sagt "[Phrase 1]", "[Phrase 2]", "[englische Phrase]".
+description: [Was der Skill macht] plus Auslöse-Phrasen: Nutze diesen Skill, wenn der User sagt "[Phrase 1]", "[Phrase 2]", "[englische Phrase]".
 ---
 
 # [Prozessname]
 
-[Zweck in 2 bis 3 Saetzen, aus dem SOP-Kopf]
+[Zweck in 2 bis 3 Sätzen, aus dem SOP-Kopf]
 
 ## Ablauf
 
 [Die SOP-Schritte, umformuliert als Anweisungen an Claude: was Claude tut,
 was es den Nutzer fragt, was es selbst entscheidet. Entscheidungsregeln und
-Sonderfaelle aus dem SOP uebernehmen.]
+Sonderfälle aus dem SOP übernehmen.]
 
 ## Ausgabeformat
 

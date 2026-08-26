@@ -1,6 +1,6 @@
 ---
 name: linkedin-post-schreiben
-description: Schreibt LinkedIn-Posts in einem interaktiven Prozess von der Idee bis zum fertigen Post. Nimmt Ideen, Links oder Transkripte als Input, schlaegt Struktur und Framework vor, schreibt den Post und waehlt zum Schluss einen Hook aus der Bibliothek. Gibt nie sofort einen fertigen Post aus. Nutze diesen Skill, wenn der User sagt "schreib einen Post", "LinkedIn Post", "Post-Idee", "Content fuer LinkedIn", "mach daraus einen Post", "write a LinkedIn post", "LinkedIn content", "post idea", "repurpose for LinkedIn", "turn this into a post".
+description: Schreibt LinkedIn-Posts in einem interaktiven Prozess von der Idee bis zum fertigen Post. Nimmt Ideen, Links oder Transkripte als Input, schlägt Struktur und Framework vor, schreibt den Post und wählt zum Schluss einen Hook aus der Bibliothek. Gibt nie sofort einen fertigen Post aus. Nutze diesen Skill, wenn der User sagt "schreib einen Post", "LinkedIn Post", "Post-Idee", "Content für LinkedIn", "mach daraus einen Post", "write a LinkedIn post", "LinkedIn content", "post idea", "repurpose for LinkedIn", "turn this into a post".
 ---
 
 # LinkedIn-Post schreiben

@@ -1,6 +1,6 @@
 ---
 name: skill-erstellen
-description: Baut aus einem Chatverlauf, einer Beschreibung oder einem SOP einen vollstaendigen Claude Skill: Ordner, SKILL.md mit Frontmatter und guten Triggern, references bei Bedarf. Verbessert auch bestehende Skills und erklaert die Installation. Nutze diesen Skill, wenn der User sagt "mach daraus einen Skill", "Skill erstellen", "bau mir einen Skill", "das will ich als Skill", "verbessere meinen Skill", "warum triggert mein Skill nicht", "create a skill", "build a skill", "turn this into a skill", "improve my skill".
+description: Baut aus einem Chatverlauf, einer Beschreibung oder einem SOP einen vollständigen Claude Skill: Ordner, SKILL.md mit Frontmatter und guten Triggern, references bei Bedarf. Verbessert auch bestehende Skills und erklärt die Installation. Nutze diesen Skill, wenn der User sagt "mach daraus einen Skill", "Skill erstellen", "bau mir einen Skill", "das will ich als Skill", "verbessere meinen Skill", "warum triggert mein Skill nicht", "create a skill", "build a skill", "turn this into a skill", "improve my skill".
 ---
 
 # Skill erstellen

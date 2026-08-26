@@ -47,7 +47,7 @@ const ergebnis = items
     json: {
       kunde: item.json.kunde,
       betrag: item.json.betrag,
-      geprueft: true
+      geprüft: true
     }
   }));
 

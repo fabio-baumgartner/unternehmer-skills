@@ -1,6 +1,6 @@
 ---
 name: content-strategie
-description: Entwickelt eine Content-Strategie für Selbstaendige und kleine Unternehmen. Sammelt Themenideen, sortiert sie in "wird gesucht" und "wird geteilt", priorisiert sie und buendelt sie in 3 bis 5 Content-Pillars mit Themenplan. Nutze diesen Skill, wenn der User sagt "Content-Strategie", "was soll ich posten", "worueber soll ich schreiben", "Themenplan", "Content-Ideen", "Redaktionsplan", "Content-Pillars", "content strategy", "content ideas", "what should I write about", "content planning", "editorial calendar".
+description: Entwickelt eine Content-Strategie für Selbständige und kleine Unternehmen. Sammelt Themenideen, sortiert sie in "wird gesucht" und "wird geteilt", priorisiert sie und bündelt sie in 3 bis 5 Content-Pillars mit Themenplan. Nutze diesen Skill, wenn der User sagt "Content-Strategie", "was soll ich posten", "worüber soll ich schreiben", "Themenplan", "Content-Ideen", "Redaktionsplan", "Content-Pillars", "content strategy", "content ideas", "what should I write about", "content planning", "editorial calendar".
 ---
 
 # Content-Strategie

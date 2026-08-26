@@ -1,6 +1,6 @@
 ---
 name: case-study-erstellen
-description: Entwickelt aus Projektdaten (Notizen, Transkripte, Zahlen) gemeinsam mit dem User eine Case Study: Ausgangslage, Problem, Vorgehen, Ergebnis mit Zahlen, Kundenzitat. Jeder Abschnitt wird bestaetigt, bevor es weitergeht. Ausgabe wahlweise als Dokument, Website-Text oder Praesentation. Nutze diesen Skill, wenn der User sagt "Case Study erstellen", "Referenz schreiben", "Kundenprojekt aufbereiten", "Erfolgsgeschichte", "Projektbericht fuer die Website", "case study", "success story", "client showcase", "write up this project".
+description: Entwickelt aus Projektdaten (Notizen, Transkripte, Zahlen) gemeinsam mit dem User eine Case Study: Ausgangslage, Problem, Vorgehen, Ergebnis mit Zahlen, Kundenzitat. Jeder Abschnitt wird bestätigt, bevor es weitergeht. Ausgabe wahlweise als Dokument, Website-Text oder Präsentation. Nutze diesen Skill, wenn der User sagt "Case Study erstellen", "Referenz schreiben", "Kundenprojekt aufbereiten", "Erfolgsgeschichte", "Projektbericht für die Website", "case study", "success story", "client showcase", "write up this project".
 ---
 
 # Case Study erstellen

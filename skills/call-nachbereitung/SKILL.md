@@ -1,6 +1,6 @@
 ---
 name: call-nachbereitung
-description: Bereitet einen Call nach: holt das Transkript direkt vom verbundenen Notetaker (Fathom, Fireflies, tl;dv, Granola, Otter) oder nimmt es eingefuegt entgegen und liefert Zusammenfassung, Entscheidungen, To-dos mit Zustaendigkeit und Frist sowie eine fertige Follow-up-Mail im Ton des Gespraechs. Nutze diesen Skill, wenn der User sagt "bereite den Call nach", "Call-Nachbereitung", "fass das Meeting zusammen", "Follow-up zum Gespraech", "was waren die To-dos", "meeting follow-up", "summarize this call", "recap the meeting", "action items from the call".
+description: Bereitet einen Call nach: holt das Transkript direkt vom verbundenen Notetaker (Fathom, Fireflies, tl;dv, Granola, Otter) oder nimmt es eingefügt entgegen und liefert Zusammenfassung, Entscheidungen, To-dos mit Zuständigkeit und Frist sowie eine fertige Follow-up-Mail im Ton des Gesprächs. Nutze diesen Skill, wenn der User sagt "bereite den Call nach", "Call-Nachbereitung", "fass das Meeting zusammen", "Follow-up zum Gespräch", "was waren die To-dos", "meeting follow-up", "summarize this call", "recap the meeting", "action items from the call".
 ---
 
 # Call-Nachbereitung

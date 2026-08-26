@@ -1,6 +1,6 @@
 ---
 name: de-slop
-description: Prueft fertigen Text auf typische KI-Schreibmuster im Deutschen (Floskeln, Dreierlisten, Substantivierungen, generische Uebergaenge, Chat-Artefakte) und liefert eine Scorecard: pro Fund die Stelle, was auffaellt und ein konkreter Verbesserungsvorschlag. Der User entscheidet, was uebernommen wird. Nutze diesen Skill, wenn der User sagt "de-slop", "klingt das nach KI", "mach das menschlicher", "check den Text", "KI-Muster finden", "Text entschlacken", "ist das gut so", "humanize this", "does this sound like AI", "de-slop this", "check this before it ships", "make this sound human".
+description: Prüft fertigen Text auf typische KI-Schreibmuster im Deutschen (Floskeln, Dreierlisten, Substantivierungen, generische Übergänge, Chat-Artefakte) und liefert eine Scorecard: pro Fund die Stelle, was auffällt und ein konkreter Verbesserungsvorschlag. Der User entscheidet, was übernommen wird. Nutze diesen Skill, wenn der User sagt "de-slop", "klingt das nach KI", "mach das menschlicher", "check den Text", "KI-Muster finden", "Text entschlacken", "ist das gut so", "humanize this", "does this sound like AI", "de-slop this", "check this before it ships", "make this sound human".
 ---
 
 # De-Slop
@@ -54,7 +54,7 @@ Fragen: "Welche Funde soll ich umsetzen? (alle / Nummern / keine)". Erst nach di
 
 ## Grenzen des Urteils
 
-- **Bedeutung erhalten**: Vorschläge dürfen straffen und konkretisieren, aber keine Aussagen verändern oder Fakten dazuerfinden.
+- **Bedeutung erhalten**: Vorschläge dürfen straffen und konkretisieren, aber keine Aussagen verändern oder Fakten dazürfinden.
 - **Stimme respektieren**: Wenn der Nutzer nun mal gern Emojis nutzt oder eine lockere Dreierliste mag, ist das sein Stil. Muster sind Indizien, keine Verbote. Im Zweifel als "Geschmackssache" kennzeichnen statt als Fehler.
 - **Kein Zwang zur Änderung**: Ein Fund mit Gewicht "Kosmetik" darf bleiben. Das Urteil "Kann raus, mit Anmerkungen" ist ein gutes Ergebnis.
 

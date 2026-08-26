@@ -1,6 +1,6 @@
 ---
 name: browser-agent
-description: Laesst Claude Websites bedienen, wenn es keine Schnittstelle gibt: navigieren, Formulare ausfuellen, klicken, Daten auslesen, Screenshots machen. Zum Beispiel Daten aus einem alten Buchhaltungstool ziehen oder ein Portal ohne Export befuellen. Nutze diesen Skill, wenn der User sagt "bedien die Website fuer mich", "fuell das Formular aus", "zieh die Daten von der Seite", "automatisiere das Portal", "mach einen Screenshot der Seite", "browser automation", "fill out this form", "scrape this page", "automate this website".
+description: Lässt Claude Websites bedienen, wenn es keine Schnittstelle gibt: navigieren, Formulare ausfüllen, klicken, Daten auslesen, Screenshots machen. Zum Beispiel Daten aus einem alten Buchhaltungstool ziehen oder ein Portal ohne Export befüllen. Nutze diesen Skill, wenn der User sagt "bedien die Website für mich", "füll das Formular aus", "zieh die Daten von der Seite", "automatisiere das Portal", "mach einen Screenshot der Seite", "browser automation", "fill out this form", "scrape this page", "automate this website".
 ---
 
 # Browser-Agent

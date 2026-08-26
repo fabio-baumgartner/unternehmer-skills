@@ -1,6 +1,6 @@
 ---
 name: mcp-server-bauen
-description: Baut aus einer API-Dokumentation einen funktionierenden MCP-Server in Python oder TypeScript, damit Claude direkt mit einem externen Dienst arbeiten kann (CRM, Buchhaltung, eigenes System). Inklusive Installation in Claude Desktop oder Claude Code. Nutze diesen Skill, wenn der User sagt "bau mir einen MCP-Server", "verbinde Claude mit [Tool]", "MCP fuer [API]", "eigenen Konnektor bauen", "build an MCP server", "create MCP integration", "connect Claude to my API", "custom connector".
+description: Baut aus einer API-Dokumentation einen funktionierenden MCP-Server in Python oder TypeScript, damit Claude direkt mit einem externen Dienst arbeiten kann (CRM, Buchhaltung, eigenes System). Inklusive Installation in Claude Desktop oder Claude Code. Nutze diesen Skill, wenn der User sagt "bau mir einen MCP-Server", "verbinde Claude mit [Tool]", "MCP für [API]", "eigenen Konnektor bauen", "build an MCP server", "create MCP integration", "connect Claude to my API", "custom connector".
 ---
 
 # MCP-Server bauen

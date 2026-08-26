@@ -1,6 +1,6 @@
 ---
 name: morning-briefing
-description: Erstellt eine kompakte Uebersicht fuer den Tag: Termine, offene Aufgaben, Mails, die eine Antwort brauchen, und was von gestern liegen geblieben ist. Kurz und scanbar, kein Fliesstext. Kann als wiederkehrende Aufgabe eingerichtet werden. Nutze diesen Skill, wenn der User sagt "Morning Briefing", "was steht heute an", "mein Tagesueberblick", "Tagesbriefing", "wie sieht mein Tag aus", "morning brief", "daily briefing", "what's on today", "start my day".
+description: Erstellt eine kompakte Übersicht für den Tag: Termine, offene Aufgaben, Mails, die eine Antwort brauchen, und was von gestern liegen geblieben ist. Kurz und scanbar, kein Fliesstext. Kann als wiederkehrende Aufgabe eingerichtet werden. Nutze diesen Skill, wenn der User sagt "Morning Briefing", "was steht heute an", "mein Tagesüberblick", "Tagesbriefing", "wie sieht mein Tag aus", "morning brief", "daily briefing", "what's on today", "start my day".
 ---
 
 # Morning-Briefing

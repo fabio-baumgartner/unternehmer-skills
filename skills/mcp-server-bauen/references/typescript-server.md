@@ -105,7 +105,7 @@ await server.connect(transport);
 - **Fehler als hilfreicher Text mit `isError: true`**, mit konkretem nächsten Schritt.
 - **Pagination**: bei Listen-Tools `limit` und einen Fortsetzungs-Parameter anbieten, große Antworten kürzen.
 - **Logs auf stderr** (`console.error`), nie auf stdout: stdout gehört dem Protokoll.
-- **Schreibende Tools** (`anlegen`, `aendern`, `loeschen`): mit destructive/readOnly-Annotations kennzeichnen und im Tool-Text erwähnen, dass die Aktion Daten verändert.
+- **Schreibende Tools** (`anlegen`, `ändern`, `löschen`): mit destructive/readOnly-Annotations kennzeichnen und im Tool-Text erwähnen, dass die Aktion Daten verändert.
 
 ## Bauen und Testen
 

@@ -49,7 +49,7 @@ Der Leser soll nach der Ausgabe fühlen:
 
 - Verstanden: "Da spricht jemand, der meine Lage kennt."
 - Fähig: "Das kann ich auch."
-- Klar: "Ich weiß, was ich als Nächstes tue."
+- Klar: "Ich weiß, was ich als Nächstes tü."
 
 Der Leser soll nicht fühlen:
 

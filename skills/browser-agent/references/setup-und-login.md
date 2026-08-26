@@ -56,7 +56,7 @@ agent-browser --session-name portal open https://portal.beispiel.de/login
 agent-browser close                        # Sitzung wird gespeichert
 
 # Beim nächsten Mal: automatisch wieder eingeloggt
-agent-browser --session-name portal open https://portal.beispiel.de/uebersicht
+agent-browser --session-name portal open https://portal.beispiel.de/übersicht
 ```
 
 ### C: Status-Datei (manuell speichern und laden)
@@ -66,7 +66,7 @@ agent-browser --session-name portal open https://portal.beispiel.de/uebersicht
 agent-browser state save ./auth.json
 # Später:
 agent-browser state load ./auth.json
-agent-browser open https://portal.beispiel.de/uebersicht
+agent-browser open https://portal.beispiel.de/übersicht
 ```
 
 **Achtung:** Solche Status-Dateien enthalten Sitzungs-Tokens im Klartext. Nicht teilen, nicht in Git einchecken, nach Projektende löschen. Dem Nutzer diesen Hinweis immer mitgeben.
