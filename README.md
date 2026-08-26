@@ -6,7 +6,15 @@ Jeder Skill funktioniert eigenständig, fragt beim ersten Einsatz selbst ab, was
 
 ## Installation
 
-Voraussetzung: [Claude Code](https://claude.com/claude-code), das kostenlose Terminal-Tool von Anthropic. Dann sind es zwei Befehle:
+**In der Claude Desktop App (empfohlen, ohne Terminal):**
+
+1. [Claude Desktop App](https://claude.ai/download) öffnen
+2. **Einstellungen** → **Plugins**
+3. Oben rechts **Add** → **Add marketplace**
+4. Diese URL einfügen und auf **Sync** klicken: `https://github.com/fabio-baumgartner/unternehmer-skills`
+5. **Unternehmer skills** in der Plugin-Liste installieren, neuen Chat starten
+
+**Alternativ per Terminal ([Claude Code](https://claude.com/claude-code)):**
 
 ```
 claude plugin marketplace add fabio-baumgartner/unternehmer-skills
@@ -16,9 +24,9 @@ claude plugin marketplace add fabio-baumgartner/unternehmer-skills
 claude plugin install unternehmer-skills@unternehmer-skills
 ```
 
-Danach eine neue Sitzung starten. Die Skills laden automatisch, sobald eine passende Aufgabe kommt, du musst keine Skill-Namen kennen. Auf demselben Rechner erscheinen die Skills auch in der Claude Desktop App.
+Danach eine neue Sitzung starten. Die Skills laden automatisch, sobald eine passende Aufgabe kommt, du musst keine Skill-Namen kennen.
 
-**Updates holen:**
+**Updates holen:** in der App beim Marketplace auf **Sync** klicken, im Terminal:
 
 ```
 claude plugin marketplace update unternehmer-skills
